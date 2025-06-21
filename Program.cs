@@ -1,6 +1,7 @@
 ﻿
 
 using System;
+using System.Diagnostics.CodeAnalysis;
 
 //date and time
 class Program
@@ -16,6 +17,15 @@ class Program
 
         //Only time
         Console.WriteLine(" Display only time: " + X.ToShortTimeString());
+
+        //add 5 days
+        DateTime futureDate = X.AddDays(5);
+        Console.WriteLine(" adding 5 more days:" + futureDate.ToShortDateString());
+
+        //subtract -2 months
+        DateTime subtract = X.AddMonths(-2);
+        Console.WriteLine(" Deduct 2 months from today's date: " + subtract.ToShortDateString());
+        
 
     }
 }
