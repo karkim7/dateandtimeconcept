@@ -1,0 +1,15 @@
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\obj\Debug\net9.0\dateandtimeconcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\obj\Debug\net9.0\dateandtimeconcept.AssemblyInfoInputs.cache
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\obj\Debug\net9.0\dateandtimeconcept.AssemblyInfo.cs
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\obj\Debug\net9.0\dateandtimeconcept.csproj.CoreCompileInputs.cache
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\obj\Debug\net9.0\dateandtimeconcept.sourcelink.json
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\bin\Debug\net9.0\dateandtimeconcept.exe
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\bin\Debug\net9.0\dateandtimeconcept.deps.json
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\bin\Debug\net9.0\dateandtimeconcept.runtimeconfig.json
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\bin\Debug\net9.0\dateandtimeconcept.dll
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\bin\Debug\net9.0\dateandtimeconcept.pdb
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\obj\Debug\net9.0\dateandtimeconcept.dll
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\obj\Debug\net9.0\refint\dateandtimeconcept.dll
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\obj\Debug\net9.0\dateandtimeconcept.pdb
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\obj\Debug\net9.0\dateandtimeconcept.genruntimeconfig.cache
+D:\mahesh\dateandtimeconcept\dateandtimeconcept\obj\Debug\net9.0\ref\dateandtimeconcept.dll
